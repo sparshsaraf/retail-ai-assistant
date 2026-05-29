@@ -76,7 +76,7 @@ tools = [
         "function": {
             "name": "evaluate_return",
             "description": """Evaluate return eligibility for an order based on store policy.
-            Always call this for return/exchange/refund requests — never guess eligibility yourself.""",
+            Always call this for return/exchange/refund requests  never guess eligibility yourself.""",
             "parameters": {
                 "type": "object",
                 "properties": {
